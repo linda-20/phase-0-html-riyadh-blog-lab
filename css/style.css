@@ -43,6 +43,10 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: blue;
+}
+h4{
+  color: blue;
 }
 
 img {
